@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "consolidation-csharp-lesson-9", "consolidation-csharp-lesson-9.csproj", "{AC80B44D-CF9E-49A0-822A-84772E45D626}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC80B44D-CF9E-49A0-822A-84772E45D626}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC80B44D-CF9E-49A0-822A-84772E45D626}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC80B44D-CF9E-49A0-822A-84772E45D626}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC80B44D-CF9E-49A0-822A-84772E45D626}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83AEBB92-37A5-4D37-AC3B-049DD4A305C7}
+	EndGlobalSection
+EndGlobal
